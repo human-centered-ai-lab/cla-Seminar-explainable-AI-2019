@@ -46,7 +46,7 @@ Marco Tulio Ribeiro, author of: https://arxiv.org/pdf/1602.04938.pdf?mod=article
 
 - https://github.com/lmzintgraf/DeepVis-PredDiff
 
-### Module 6 ###
+### Module 06 Selected Methods Part 2: Deconvolution, Inverting CNN, Guided Backprop, DGN, TCAV ###
 
 # 6.1. Viz CNNs with Deconvolution
 
@@ -68,7 +68,7 @@ Marco Tulio Ribeiro, author of: https://arxiv.org/pdf/1602.04938.pdf?mod=article
 
 - https://github.com/tensorflow/tcav
 
-### Module 7 ###
+### Module 07 Selected Methods Part 3: Feature Vis, Deep Vis, RNNCSS, Fitted Additive, iML ###
 
 # 7.1. Feature Visualization
 
@@ -89,7 +89,9 @@ Marco Tulio Ribeiro, author of: https://arxiv.org/pdf/1602.04938.pdf?mod=article
 
 # 7.5. Interactive ML with human-in-the-loop
 
-### Module 8 ###
+https://github.com/human-centered-ai-lab/AK_HCI_Travelling_Snakesman
+
+### Module 08 Selected Methods Part 4: Sensitivity, Gradients, DeepLIFT, Grad-CAM  ###
 
 # 8.1. Sensitivity Analysis I
 
