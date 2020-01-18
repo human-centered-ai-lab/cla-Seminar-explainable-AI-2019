@@ -1,3 +1,5 @@
+Dear students, note this is the 2019 version; this course will be updated in summer 2020 to the 2020 version. Thank you!
+
 
 Similar courses, github repos:
 - https://github.com/BoulderDS/human-centered-machine-learning
