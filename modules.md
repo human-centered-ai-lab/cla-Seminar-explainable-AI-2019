@@ -9,7 +9,7 @@ Similar courses, github repos:
 Methods for xAI: Examples on GitHub
 NOTE: Please always check the original papers as shown during the course
 
-### Module 4 ###
+### Module 04 Top-Level Overview of explanation methodologies: from ante-hoc to post-hoc explainability ###
 
 # 4.1. GAM
 
@@ -22,27 +22,27 @@ NOTE: Please always check the original papers as shown during the course
 
 - No implementation found
 
-### Module 5 ###
+### Module 05 Selected Methods Part 1: LIME, BETA, LRP, DTD, PDA ###
 
-# 5.1. LIME
+# 5.1. Local Interpretable Model Agnostic Explanations (LIME)
 
 Marco Tulio Ribeiro, author of: https://arxiv.org/pdf/1602.04938.pdf?mod=article_inline
 - https://github.com/marcotcr/lime
 - https://github.com/marcotcr/lime-experiments
 
-# 5.2. BETA
+# 5.2. Black-Box Explanation through Transparent Approximation (BETA)
 
 - No implementation found
 
-# 5.3. LRP
+# 5.3. Layer-Wise Relevance Propagation (LRP)
 
 - https://github.com/albermax/innvestigate
 
-# 5.4. Deep Taylor Decomposition
+# 5.4. Deep Taylor Decomposition (DTD)
 
 - https://github.com/albermax/innvestigate
 
-# 5.5. Prediction Difference Analysis
+# 5.5. Prediction Difference Analysis (PDA)
 
 - https://github.com/lmzintgraf/DeepVis-PredDiff
 
