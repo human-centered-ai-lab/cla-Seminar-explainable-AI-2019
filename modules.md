@@ -1,4 +1,4 @@
-Dear students, note this is the 2019 version; this course will be updated in summer 2020 to the 2020 version. Thank you!
+Dear students, note this is the 2019 version; this course will be updated and re-organized in summer 2020 to the 2020 version. Thank you for your kind interest and patience!
 
 
 Similar courses, github repos:
@@ -6,7 +6,8 @@ Similar courses, github repos:
 - https://canvas.harvard.edu/courses/68154
 - https://github.com/anguyen8/XAI-papers
 
-Methods for ex-AI: Examples on GitHub
+Methods for xAI: Examples on GitHub
+NOTE: Please always check the original papers as shown during the course
 
 ### Module 4 ###
 
