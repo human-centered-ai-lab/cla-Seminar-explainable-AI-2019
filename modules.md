@@ -1,4 +1,4 @@
-Dear students, note this is the 2019 version; this course will be updated and re-organized in summer 2020 to the 2020 version. Thank you for your kind interest and patience!
+Dear students, note this is the 2019 version; this course will be constantly updated and re-organized in summer 2020 to the 2020 version. Thank you for your kind interest and patience!
 
 
 Similar courses, github repos:
