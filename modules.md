@@ -9,7 +9,7 @@ Similar courses, github repos:
 Methods for xAI: Examples on GitHub
 NOTE: Please always check the original papers as shown during the course
 
-### Module 04 Top-Level Overview of explanation methodologies: from ante-hoc to post-hoc explainability ###
+## Module 04 Top-Level Overview of explanation methodologies: from ante-hoc to post-hoc explainability ###
 
 # 4.1. GAM
 
